@@ -8,6 +8,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
+	<nav>네비게이션</nav>
 	<h3>폐기 기능</h3>
 	<p>폐기 기능은 commit하기 전 상태의 파일을 완전히 삭제하는 기능이다.</p>
 	
@@ -16,5 +17,9 @@
 	<p>2. reverse commit - 선택한 버전의 이전 버전으로 되돌린 내용을 새롭게 commit</p>
 	<p>불필요한 내용 추가</p>
 	<p>신규 개발이 어쩌구</p>
+	<ul>
+	<li>master</li>
+	<li>O 신규 개발</li>
+	</ul>
 </body>
 </html>
