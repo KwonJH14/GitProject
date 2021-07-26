@@ -16,5 +16,9 @@
 	<p>2. reverse commit - 선택한 버전의 이전 버전으로 되돌린 내용을 새롭게 commit</p>
 	<p>불필요한 내용 추가</p>
 	<p>신규 개발이 어쩌구</p>
+	<ul>
+	<li>master</li>
+	<li>O 신규 개발</li>
+	</ul>
 </body>
 </html>
